@@ -145,7 +145,7 @@
 .candles {
   position: absolute;
   top: 228px;
-  left: 34%;
+  left: 55%;
   transform: translateX(-50%) translateY(-300px);
   animation: in 500ms 6s ease-out forwards;
   display: flex;
